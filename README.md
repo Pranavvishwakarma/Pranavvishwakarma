@@ -30,6 +30,8 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-vishwakarma-77b026211/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <!-- Add more social icons as needed -->
+  <!-- Example: GitHub, Twitter, Email, etc. -->
 </p>
 
 <!-- Languages and Tools -->
@@ -49,4 +51,14 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavvishwakarma&" alt="pranavvishwakarma">
+</p>
+
+<!-- Additional Features with Symbols -->
+<h3 align="left">Additional Features:</h3>
+<p align="left">
+  🚀 **Open Source Contributor**: Proudly contributing to open-source projects.<br>
+  💡 **Tech Enthusiast**: Passionate about exploring the latest technologies.<br>
+  🏆 **Hackathon Aficionado**: Winner of multiple coding hackathons.<br>
+  🌱 **Continuous Learner**: Embracing new skills and knowledge every day.<br>
+  🎓 **Student Developer**: Balancing academics and coding with flair.<br>
 </p>
