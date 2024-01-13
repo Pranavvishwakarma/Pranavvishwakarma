@@ -58,7 +58,6 @@
 <p align="left">
   🚀 **Open Source Contributor**: Proudly contributing to open-source projects.<br>
   💡 **Tech Enthusiast**: Passionate about exploring the latest technologies.<br>
-  🏆 **Hackathon Aficionado**: Winner of multiple coding hackathons.<br>
   🌱 **Continuous Learner**: Embracing new skills and knowledge every day.<br>
   🎓 **Student Developer**: Balancing academics and coding with flair.<br>
 </p>
