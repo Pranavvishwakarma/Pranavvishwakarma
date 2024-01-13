@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **React.js, Node.js**
 - 🤝 I’m looking for help with **Web, ML, Software Development**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pranavvishwakarma.vercel.app/)
-- 💬 Ask me about **Python, C++, AI, Web.**
+- 💬 Ask me about **Python, C++, AI, Web , RESTful API's.**
 - 📫 How to reach me: **Pranav213234@gmail.com**
 - ⚡ Fun fact: **I think**
 
