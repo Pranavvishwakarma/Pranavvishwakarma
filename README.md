@@ -4,61 +4,94 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Pranav Vishwakarma</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi, I'm Pranav Vishwakarma! 👋</h1>
+<h3 align="center">Passionate Software Developer from India 🚀</h3>
 
-<!-- Coding Gif -->
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pranavvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="pranavvishwakarma">
+<!-- Summary -->
+<p align="center">
+  🌐 On a mission to build a successful career in software development, consistently honing my programming skills and embracing new challenges. Thriving in dynamic and collaborative environments. 💡
 </p>
 
-<!-- About Me -->
-- 🔭 I’m currently working on **Text to Image Comparator: Text2Visual**
-- 🌱 I’m currently learning **React.js, Node.js**
-- 🤝 I’m looking for help with **Web, ML, Software Development**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://pranavvishwakarma.vercel.app/)
-- 💬 Ask me about **Python, C++, AI, Web.**
-- 📫 How to reach me: **Pranav213234@gmail.com**
-- ⚡ Fun fact: **I think**
+<!-- Skills and Hobbies -->
+<h3 align="center">Skills and Hobbies</h3>
+<p align="center">
+  <strong>Technical Skills</strong>: Python, C++, HTML, CSS, JavaScript, NodeJs, ExpressJs. <br>
+  <strong>Database</strong>: MySQL. <br>
+  <strong>Frameworks & Tools</strong>: VS Code, NetBeans, Pycharm. <br>
+  <strong>Soft Skills</strong>: Leadership, Listening to Music, Creative, Dedicated. 🎵
+</p>
+
+<!-- Experience -->
+<h3 align="center">Experience</h3>
+<p align="center">
+  <strong>Web Developer Intern at The Spark Foundation | June 23 - July 2023</strong> <br>
+  - Developed a dynamic website for customer data management and transfer tracking. <br>
+  - Implemented a comprehensive dummy data database, enhancing data accuracy. <br>
+  - Designed and integrated a transfers table for accurate transaction recording. <br>
+  - Ensured a seamless functionality and user-friendly interface for a smooth customer experience. 💼
+</p>
+
+<!-- Projects -->
+<h3 align="center">Projects</h3>
+<p align="center">
+  <strong>Tomato Leaf Disease Prediction | July 2022 - Dec 2022</strong> <br>
+  - Empowers farmers with an accessible interface for easy image upload, facilitating early disease detection. <br>
+  - Utilizes image processing and CNN for swift and accurate plant disease identification. <br>
+  - Analyzes plant leaf images to distinguish between healthy and diseased plants, offering a precise identification tool. 🍅🔍
+</p>
+
+<p align="center">
+  <strong>Face Recognition Attendance System | Jan 2022 - March 2022</strong> <br>
+  - Implemented a facial recognition system for efficient student attendance tracking. <br>
+  - Automated data storage in Excel and the Student Management System. <br>
+  - Improved accuracy and efficiency in attendance recording, optimizing administrative processes. 📊👤
+</p>
+
+<!-- Certificates and Achievements -->
+<h3 align="center">Certificates and Achievements</h3>
+<p align="center">
+  - Completed C++ Training from Spoken Tutorial Project, IIT Bombay. <br>
+  - Earned a certificate in a one-week coding workshop with Grass Solution. 🏆🎓
+</p>
+
+<!-- Activities -->
+<h3 align="center">Activities</h3>
+<p align="center">
+  - Actively participated in a Python Workshop at PIEMR, Indore. <br>
+  - Participated in Octathon on the Occasion of Engineer’s Day at PIEMR, Indore. 🚀👨‍💻
+</p>
 
 <!-- Connect with Me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with Me</h3>
+<p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-vishwakarma-77b026211/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <!-- Add more social icons as needed -->
-  <!-- Example: GitHub, Twitter, Email, etc. -->
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Include your programming languages and tools icons here -->
+  <!-- Example: GitHub, Twitter, Email, etc. 🌐📧-->
 </p>
 
 <!-- GitHub Stats -->
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavvishwakarma&show_icons=true&locale=en&layout=compact" alt="pranavvishwakarma">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranavvishwakarma&show_icons=true&locale=en" alt="pranavvishwakarma">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavvishwakarma&" alt="pranavvishwakarma">
 </p>
 
 <!-- Additional Features with Symbols -->
-<h3 align="left">Additional Features:</h3>
-<p align="left">
-  🚀 **Open Source Contributor**: Proudly contributing to open-source projects.<br>
-  💡 **Tech Enthusiast**: Passionate about exploring the latest technologies.<br>
-  🏆 **Hackathon Aficionado**: Winner of multiple coding hackathons.<br>
-  🌱 **Continuous Learner**: Embracing new skills and knowledge every day.<br>
-  🎓 **Student Developer**: Balancing academics and coding with flair.<br>
+<h3 align="center">Additional Features</h3>
+<p align="center">
+  🚀 **Open Source Contributor**: Proudly contributing to open-source projects. <br>
+  💻 **Tech Enthusiast**: Passionate about exploring the latest technologies. <br>
+  🏆 **Hackathon Aficionado**: Winner of multiple coding hackathons. <br>
+  🌱 **Continuous Learner**: Embracing new skills and knowledge every day. <br>
+  🎓 **Student Developer**: Balancing academics and coding with flair. <br>
 </p>
+
+Feel free to use this template, and customize it further to suit your personal style and preferences!
