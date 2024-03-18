@@ -16,7 +16,7 @@
 </p>
 
 <!-- About Me -->
-- 🔭 I’m currently working on **Text to Image Comparator: Text2Visual**
+- 🔭 I’m currently working on **Software Engineer Intern**
 - 🌱 I’m currently learning **React.js, Node.js**
 - 🤝 I’m looking for help with **Web, ML, Software Development**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pranavvishwakarma.vercel.app/)
