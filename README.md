@@ -1,6 +1,7 @@
-<!-- Background Image -->
+<!-- Background Image -->()
+
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Feducation%2Fcomputers-tech%2Fwhat-is-coding-and-what-is-it-used-for%2F&psig=AOvVaw3WUf6CJNhYFsRx6H3JdHDa&ust=1703904490289000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPi6uIDRs4MDFQAAAAAdAAAAABAI" alt="Coding Background" width="100%">
+  <img src="https://github.com/Pranavvishwakarma/Pranavvishwakarma/assets/103947396/e28540ee-9859-4870-a2fe-e4a27bd9c217" alt="Coding Background" width="100%">
 </p>
 
 <!-- Introduction -->
