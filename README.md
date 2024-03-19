@@ -1,7 +1,7 @@
-<!-- Background Image -->()
+<!-- Background Image -->
 
 <p align="center">
-  <img src="https://github.com/Pranavvishwakarma/Pranavvishwakarma/assets/103947396/e28540ee-9859-4870-a2fe-e4a27bd9c217" alt="Coding Background" width="100%">
+  <img src="https://github.com/Pranavvishwakarma/Pranavvishwakarma/assets/103947396/c4c7e302-b842-4f09-bd77-8d58027c721c" alt="Coding Background" width="100%">
 </p>
 
 <!-- Introduction -->
