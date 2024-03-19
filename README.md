@@ -28,11 +28,11 @@
 <!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-vishwakarma-77b026211/" target="blank">
+  <a href="https://www.linkedin.com/in/pranav-vishwakarma-77b026211/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <!-- Add more social icons as needed -->
-  <!-- Example: GitHub, Twitter, Email, etc. -->
+  <!-- Example: GitHub, Twitter, Email, etc. --> 
 </p>
 
 <!-- Languages and Tools -->
