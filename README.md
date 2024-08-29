@@ -17,7 +17,7 @@
 </p>
 
 <!-- About Me -->
-- 🔭 I’m currently working on **Software Engineer Intern**
+- 🔭 I’m currently working on **Full Stack Intern**
 - 🌱 I’m currently learning **React.js, Node.js**
 - 🤝 I’m looking for help with **Web, ML, Software Development**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pranavvishwakarma.vercel.app/)
