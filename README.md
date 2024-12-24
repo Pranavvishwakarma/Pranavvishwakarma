@@ -50,9 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pranavvishwakarma&show_icons=true&locale=en" alt="pranavvishwakarma">
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavvishwakarma&" alt="pranavvishwakarma">
-</p>
+
 
 <!-- Additional Features with Symbols -->
 <h3 align="left">Additional Features:</h3>
