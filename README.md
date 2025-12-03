@@ -109,10 +109,12 @@ CRM systems, automation tools, live streaming modules, e-commerce platforms, and
 ---
 
 ## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats-git-masterorg-vercel-1.vercel.app/api/top-langs/?username=pranavvishwakarma&show_icons=true&locale=en&layout=compact" alt="pranavvishwakarma" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavvishwakarma&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavvishwakarma&layout=compact&theme=tokyonight" height="160px"/>
+<p align="left">
+  <img src="https://github-readme-stats-git-masterorg-vercel-1.vercelogy-vercel-1.vercel.app/api?username=pranavvishwakarma&show_icons=true&locale=en" alt="pranavvishwakarma" />
 </p>
 
 ---
