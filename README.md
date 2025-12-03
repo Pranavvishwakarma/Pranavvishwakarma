@@ -1,5 +1,5 @@
 <div align="center">
-  <svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+  <svg width="100%" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="cyber" x1="0" y1="0" x2="1" y2="1">
         <stop offset="0%" stop-color="#00f5ff"/>
@@ -25,56 +25,68 @@
         </feMerge>
       </filter>
     </defs>
-    <rect x="0" y="0" width="1000" height="300" fill="#0b0f17"/>
+    <rect x="0" y="0" width="1200" height="420" fill="#0b0f17"/>
     <g opacity="0.35">
-      <line x1="0" y1="230" x2="1000" y2="230" stroke="#1a2340"/>
-      <line x1="0" y1="250" x2="1000" y2="250" stroke="#1a2340"/>
-      <line x1="0" y1="270" x2="1000" y2="270" stroke="#1a2340"/>
+      <line x1="0" y1="300" x2="1200" y2="300" stroke="#1a2340"/>
+      <line x1="0" y1="330" x2="1200" y2="330" stroke="#1a2340"/>
+      <line x1="0" y1="360" x2="1200" y2="360" stroke="#1a2340"/>
+      <line x1="0" y1="390" x2="1200" y2="390" stroke="#1a2340"/>
     </g>
     <g filter="url(#glow3d)">
-      <g transform="translate(260,140)">
-        <polygon points="0,-40 40,-20 0,0 -40,-20" fill="url(#faceT)" />
-        <polygon points="-40,-20 0,0 0,60 -40,40" fill="url(#faceL)" />
-        <polygon points="40,-20 0,0 0,60 40,40" fill="url(#faceR)" />
-        <animateTransform attributeName="transform" type="rotate" values="0;6;-6;0" dur="8s" repeatCount="indefinite" additive="sum"/>
-        <animateTransform attributeName="transform" type="translate" values="0,0;0,-6;0,0;0,6;0,0" dur="6s" repeatCount="indefinite" additive="sum"/>
+      <g transform="translate(280,170)">
+        <polygon points="0,-42 42,-21 0,0 -42,-21" fill="url(#faceT)" />
+        <polygon points="-42,-21 0,0 0,64 -42,43" fill="url(#faceL)" />
+        <polygon points="42,-21 0,0 0,64 42,43" fill="url(#faceR)" />
+        <animateTransform attributeName="transform" type="rotate" values="0;7;-7;0" dur="8s" repeatCount="indefinite" additive="sum"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0;0,8;0,0" dur="6.5s" repeatCount="indefinite" additive="sum"/>
       </g>
-      <g transform="translate(520,120)">
-        <polygon points="0,-36 36,-18 0,0 -36,-18" fill="url(#faceT)" />
-        <polygon points="-36,-18 0,0 0,54 -36,36" fill="url(#faceL)" />
-        <polygon points="36,-18 0,0 0,54 36,36" fill="url(#faceR)" />
+      <g transform="translate(560,150)">
+        <polygon points="0,-38 38,-19 0,0 -38,-19" fill="url(#faceT)" />
+        <polygon points="-38,-19 0,0 0,58 -38,38" fill="url(#faceL)" />
+        <polygon points="38,-19 0,0 0,58 38,38" fill="url(#faceR)" />
         <animateTransform attributeName="transform" type="rotate" values="0;-5;5;0" dur="7s" repeatCount="indefinite" additive="sum"/>
-        <animateTransform attributeName="transform" type="translate" values="0,0;0,5;0,0;-2,-3;0,0" dur="5.5s" repeatCount="indefinite" additive="sum"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,6;0,0;-3,-3;0,0" dur="5.5s" repeatCount="indefinite" additive="sum"/>
       </g>
-      <g transform="translate(780,150)">
-        <polygon points="0,-30 30,-15 0,0 -30,-15" fill="url(#faceT)" />
-        <polygon points="-30,-15 0,0 0,45 -30,30" fill="url(#faceL)" />
-        <polygon points="30,-15 0,0 0,45 30,30" fill="url(#faceR)" />
+      <g transform="translate(840,180)">
+        <polygon points="0,-34 34,-17 0,0 -34,-17" fill="url(#faceT)" />
+        <polygon points="-34,-17 0,0 0,52 -34,34" fill="url(#faceL)" />
+        <polygon points="34,-17 0,0 0,52 34,34" fill="url(#faceR)" />
         <animateTransform attributeName="transform" type="rotate" values="0;4;-4;0" dur="9s" repeatCount="indefinite" additive="sum"/>
-        <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="5s" repeatCount="indefinite" additive="sum"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="5s" repeatCount="indefinite" additive="sum"/>
+      </g>
+      <g transform="translate(1040,140)">
+        <polygon points="0,-30 30,-15 0,0 -30,-15" fill="url(#faceT)" />
+        <polygon points="-30,-15 0,0 0,46 -30,30" fill="url(#faceL)" />
+        <polygon points="30,-15 0,0 0,46 30,30" fill="url(#faceR)" />
+        <animateTransform attributeName="transform" type="rotate" values="0;3;-3;0" dur="8.5s" repeatCount="indefinite" additive="sum"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,4;0,0" dur="5.2s" repeatCount="indefinite" additive="sum"/>
       </g>
     </g>
     <g>
-      <text x="500" y="90" text-anchor="middle" fill="url(#cyber)" font-family="'Orbitron', sans-serif" font-size="42" letter-spacing="6">PRANAV VISHWAKARMA</text>
-      <text x="500" y="125" text-anchor="middle" fill="#b0f3ff" font-family="'Montserrat', sans-serif" font-size="18">Software Engineer • Full Stack Developer • AI & ML Enthusiast</text>
+      <circle cx="600" cy="220" r="120" stroke="url(#cyber)" stroke-width="2" fill="none" stroke-dasharray="12 8">
+        <animate attributeName="stroke-dashoffset" values="0;300;0" dur="10s" repeatCount="indefinite"/>
+      </circle>
     </g>
     <g>
-      <circle cx="120" cy="40" r="2" fill="#7df9ff">
-        <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="880" cy="60" r="2" fill="#ff00e6">
-        <animate attributeName="opacity" values="0;1;0" dur="5.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="420" cy="30" r="2" fill="#8a2be2">
-        <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
-      </circle>
+      <text x="600" y="90" text-anchor="middle" fill="url(#cyber)" font-family="'Orbitron', sans-serif" font-size="44" letter-spacing="7">PRANAV VISHWAKARMA</text>
+      <text x="600" y="125" text-anchor="middle" fill="#b0f3ff" font-family="'Montserrat', sans-serif" font-size="18">Software Engineer • Full Stack Developer • AI & ML Enthusiast</text>
     </g>
-    <path d="M0 220 C 200 190, 400 240, 600 200 S 900 190, 1000 230" stroke="url(#cyber)" stroke-width="2" fill="none">
-      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 220 C 200 190, 400 240, 600 200 S 900 190, 1000 230; M0 220 C 220 210, 420 220, 620 190 S 920 200, 1000 220; M0 220 C 200 190, 400 240, 600 200 S 900 190, 1000 230"/>
+    <g font-family="'Montserrat', sans-serif" font-size="14" letter-spacing="2" fill="#b0f3ff">
+      <text x="180" y="360" fill="#7df9ff">PYTHON</text>
+      <text x="360" y="340" fill="#8a2be2">LARAVEL</text>
+      <text x="540" y="360" fill="#ff00e6">NODEJS</text>
+      <text x="720" y="340" fill="#7df9ff">REACT</text>
+      <text x="900" y="360" fill="#8a2be2">MYSQL</text>
+      <text x="1020" y="335" fill="#ff00e6">MONGODB</text>
+      <text x="80" y="335" fill="#8a2be2">AWS</text>
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <path d="M0 310 C 240 280, 480 350, 720 300 S 960 280, 1200 330" stroke="url(#cyber)" stroke-width="2" fill="none">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 310 C 240 280, 480 350, 720 300 S 960 280, 1200 330; M0 310 C 260 300, 500 330, 740 280 S 980 300, 1200 320; M0 310 C 240 280, 480 350, 720 300 S 960 280, 1200 330"/>
     </path>
   </svg>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=7DF9FF&center=true&vCenter=true&width=1000&lines=Neon+3D+vibes+%E2%80%A2+Futuristic+systems;Clean+APIs+%E2%80%A2+Premium+UX" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=7DF9FF&center=true&vCenter=true&width=1000&lines=3D+Neon+Grid+%E2%80%A2+Skills+in+motion;Clean+APIs+%E2%80%A2+Premium+UX" alt="typing"/>
 </div>
 
 # Software Engineer | Full Stack Developer | AI & ML Enthusiast
