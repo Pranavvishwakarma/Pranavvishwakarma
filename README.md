@@ -1,139 +1,96 @@
-<!-- Banner -->
+<div align="center">
+  <svg width="1000" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#00f5ff"/>
+        <stop offset="50%" stop-color="#8a2be2"/>
+        <stop offset="100%" stop-color="#ff00e6"/>
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="6" result="b"/>
+        <feMerge>
+          <feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <rect x="0" y="0" width="1000" height="240" fill="#0b0f17"/>
+    <g filter="url(#glow)">
+      <text x="500" y="115" text-anchor="middle" fill="url(#g)" font-family="'Orbitron', sans-serif" font-size="44" letter-spacing="4">PRANAV VISHWAKARMA</text>
+      <text x="500" y="165" text-anchor="middle" fill="#b0f3ff" font-family="'Montserrat', sans-serif" font-size="18">Software Engineer • Full Stack Developer • AI & ML Enthusiast</text>
+    </g>
+    <path d="M0 200 C 200 160, 400 240, 600 190 S 900 160, 1000 210" stroke="url(#g)" stroke-width="2" fill="none">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 200 C 200 160, 400 240, 600 190 S 900 160, 1000 210; M0 200 C 220 180, 420 220, 620 170 S 920 180, 1000 200; M0 200 C 200 160, 400 240, 600 190 S 900 160, 1000 210"/>
+    </path>
+  </svg>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=900&color=7DF9FF&center=true&vCenter=true&width=1000&lines=Building+scalable+systems+%E2%80%A2+Designing+intelligent+apps;Crafting+futuristic+UX+%26+APIs" alt="typing"/>
+</div>
+
+# Software Engineer | Full Stack Developer | AI & ML Enthusiast
+
+Confident builder crafting premium, production-grade systems with clean architectures, fast APIs, and intelligent experiences.
+
+## About
+- Shipping backend-first products with robust auth, caching, observability, and CI/CD
+- Passion for AI-assisted workflows, automation, and data reliability
+- Pragmatic problem-solver focused on performance, DX, and maintainability
+
+## Tech Stack
 <p align="center">
-  <img src="https://github.com/Pranavvishwakarma/Pranavvishwakarma/assets/103947396/c4c7e302-b842-4f09-bd77-8d58027c721c" width="100%" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,express,react,js,html,css,bootstrap,jquery,mysql,mongodb,aws,git,github,gitlab,postman,figma&perline=9"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Pranav Vishwakarma</b></h1>
-<h3 align="center">Software Engineer • Backend Developer • AI/ML Enthusiast</h3>
+## GitHub Pulse
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pranavvishwakarma&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=percent" alt="stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavvishwakarma&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+    </td>
+  </tr>
+</table>
+
+## Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranavvishwakarma&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak"/>
+</p>
+
+## Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavvishwakarma&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+## Featured Projects
+<p>
+  <a href="https://github.com/pranavvishwakarma?tab=repositories&q=attendance" style="display:inline-block;padding:14px 18px;border-radius:16px;background:linear-gradient(135deg,#0b0f17,#131a29);box-shadow:0 0 16px #7df9ff33;margin:8px;text-decoration:none;color:#d6e7ff;">
+    <b>Face Recognition Attendance</b><br/>Python • OpenCV • MySQL
+  </a>
+  <a href="https://github.com/pranavvishwakarma?tab=repositories&q=tomato" style="display:inline-block;padding:14px 18px;border-radius:16px;background:linear-gradient(135deg,#0b0f17,#1b2336);box-shadow:0 0 16px #ff00e633;margin:8px;text-decoration:none;color:#d6e7ff;">
+    <b>Tomato Leaf Disease</b><br/>CNN • Model Serving
+  </a>
+  <a href="https://github.com/pranavvishwakarma?tab=repositories&q=crm" style="display:inline-block;padding:14px 18px;border-radius:16px;background:linear-gradient(135deg,#0b0f17,#172135);box-shadow:0 0 16px #8a2be233;margin:8px;text-decoration:none;color:#d6e7ff;">
+    <b>TravelCRM</b><br/>Laravel • Multi-currency
+  </a>
+  <a href="https://github.com/pranavvishwakarma?tab=repositories&q=homelyhub" style="display:inline-block;padding:14px 18px;border-radius:16px;background:linear-gradient(135deg,#0b0f17,#14202f);box-shadow:0 0 16px #00f5ff33;margin:8px;text-decoration:none;color:#d6e7ff;">
+    <b>HomelyHub</b><br/>MERN • Booking Platform
+  </a>
+</p>
+
+## Contact
+<p align="center">
+  <a href="https://github.com/pranavvishwakarma"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://www.linkedin.com/in/pranavvishwakarma"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:pranav213234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
 <p align="center">
-  <a href="mailto:pranav213234@gmail.com">📧 Email</a> •
-  <a href="https://github.com/pranavvishwakarma">GitHub</a> •
-  <a href="https://www.linkedin.com/in/pranavvishwakarma">LinkedIn</a>
+  <svg width="260" height="70" viewBox="0 0 260 70" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 50 C 60 10, 120 90, 190 20 S 250 60, 250 50" stroke="#7df9ff" stroke-width="2" fill="none">
+      <animate attributeName="stroke" values="#7df9ff;#ff00e6;#8a2be2;#7df9ff" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <text x="130" y="38" text-anchor="middle" fill="#b0f3ff" font-family="'Great Vibes', cursive" font-size="20">— Pranav</text>
+  </svg>
 </p>
-
----
-
-## 🚀 About Me
-Results-driven **Software Engineer** with hands-on experience in  
-**Backend Development (Laravel, Node.js), REST API Engineering, and AI/ML applications**.
-
-I have worked with **3+ companies**, completed **10+ production projects**, and contributed to  
-CRM systems, automation tools, live streaming modules, e-commerce platforms, and AI-powered apps.
-
-💼 **Current Role:** Associate PHP Developer at OyeLabs (Remote)  
-🎓 **Education:** B.Tech CSE (CGPA: 8.22)  
-💡 **Strength:** Strong backend logic, debugging, performance optimization, and scalable architecture.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### **Programming**
-`Python` • `PHP` • `C++` • `SQL` • `JavaScript`
-
-### **Backend & Frameworks**
-`Laravel` • `Node.js` • `Express.js` • `LangChain`
-
-### **Frontend**
-`React` • `HTML` • `CSS` • `Bootstrap` • `jQuery`
-
-### **Databases**
-`MySQL` • `MongoDB`
-
-### **Cloud / DevOps**
-`AWS` • `Git` • `GitHub` • `GitLab` • `CI/CD` • `cPanel`
-
-### **Tools**
-`Postman` • `Excel` • `VS Code` • `Figma`
-
----
-
-## 💼 Work Experience
-
-### 🔹 **OyeLabs — Associate PHP Developer**  
-*Mar 2025 – Present | Remote*  
-- Worked on **10+ live projects**: Philregis, Oohmie, XOBlack, MoonBNB, MoonLancer, Trymii, etc.  
-- Added major features like **YouTube Live Streaming**, **Auto CV Matching**, **Custom Admin Features**.  
-- Built and optimized **REST APIs**, improved query performance (MySQL).  
-- Collaborated with frontend & QA for smooth deployments.  
-- **Tech:** PHP, Laravel, MySQL, REST APIs, jQuery.
-
----
-
-### 🔹 **Infosys Springboard — Project Intern**  
-*Feb 2025 – Mar 2025 | Remote*  
-- Built an automation tool to **download NSE reports daily**.  
-- Added CSV validation, duplicate handling & error-resilient system.  
-- Improved reliability & data accuracy through strong validation rules.
-
----
-
-### 🔹 **India Websoft — Jr. Software Engineer Intern**  
-*Sep 2024 – Feb 2025 | Indore*  
-- Built **TravelCRM** for Centurion Luxury Travels (booking, packages, quotations).  
-- Added **multi-currency (INR/AED/EUR)**, hotel PDF reports, supplier expense filters.  
-- Improved CRUD speed, UI responsiveness & cPanel deployment.
-
----
-
-### 🔹 **WebStack Academy — MERN Intern**  
-*Feb 2024 – Apr 2024 | Remote*  
-- Built "HomelyHub" hotel booking platform using MERN Stack.
-
----
-
-## 📌 Major Projects
-
-### ⭐ **Face Recognition Attendance System**
-- Automated attendance using **Python + OpenCV + MySQL**.  
-- Reduced manual work by **60%**.  
-- Includes Excel export, student logs, and live camera detection.
-
-### ⭐ **Tomato Leaf Disease Prediction**
-- CNN-based detection system with 93% accuracy.  
-- Built simple UI for leaf image upload.
-
----
-
-## 🏆 Certifications
-- **LangChain for LLM Development — DeepLearning.AI**  
-- **Introduction to LLMs — Google Cloud**  
-- **AI/ML & Blockchain — BITS Pilani**  
-- **SQL (Basic) — HackerRank**  
-- **Node.js (Basic) — HackerRank**  
-- **OpenCV — IIT Bombay (Spoken Tutorial)**  
-- **Concepts of AI/ML — ISRO**  
-- **Python & Face Recognition — HCL GUVI**  
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorg-vercel-1.vercel.app/api/top-langs/?username=pranavvishwakarma&show_icons=true&locale=en&layout=compact" alt="pranavvishwakarma" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorg-vercel-1.vercelogy-vercel-1.vercel.app/api?username=pranavvishwakarma&show_icons=true&locale=en" alt="pranavvishwakarma" />
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/pranavvishwakarma">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="mailto:pranav213234@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
-  </a>
-  <a href="https://github.com/pranavvishwakarma">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
-  </a>
-</p>
-
----
-
-## ✨ Quote
-> "Code, create, and keep improving — the future belongs to builders."
 
