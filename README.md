@@ -1,62 +1,137 @@
-<!-- Background Image -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Pranavvishwakarma/Pranavvishwakarma/assets/103947396/c4c7e302-b842-4f09-bd77-8d58027c721c" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I'm <b>Pranav Vishwakarma</b></h1>
+<h3 align="center">Software Engineer • Backend Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/Pranavvishwakarma/Pranavvishwakarma/assets/103947396/c4c7e302-b842-4f09-bd77-8d58027c721c" alt="Coding Background" width="100%">
+  <a href="mailto:pranav213234@gmail.com">📧 Email</a> •
+  <a href="https://github.com/pranavvishwakarma">GitHub</a> •
+  <a href="https://www.linkedin.com/in/pranavvishwakarma">LinkedIn</a>
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Pranav Vishwakarma</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+---
 
-<!-- Coding Gif -->
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+## 🚀 About Me
+Results-driven **Software Engineer** with hands-on experience in  
+**Backend Development (Laravel, Node.js), REST API Engineering, and AI/ML applications**.
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pranavvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="pranavvishwakarma">
+I have worked with **3+ companies**, completed **10+ production projects**, and contributed to  
+CRM systems, automation tools, live streaming modules, e-commerce platforms, and AI-powered apps.
+
+💼 **Current Role:** Associate PHP Developer at OyeLabs (Remote)  
+🎓 **Education:** B.Tech CSE (CGPA: 8.22)  
+💡 **Strength:** Strong backend logic, debugging, performance optimization, and scalable architecture.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### **Programming**
+`Python` • `PHP` • `C++` • `SQL` • `JavaScript`
+
+### **Backend & Frameworks**
+`Laravel` • `Node.js` • `Express.js` • `LangChain`
+
+### **Frontend**
+`React` • `HTML` • `CSS` • `Bootstrap` • `jQuery`
+
+### **Databases**
+`MySQL` • `MongoDB`
+
+### **Cloud / DevOps**
+`AWS` • `Git` • `GitHub` • `GitLab` • `CI/CD` • `cPanel`
+
+### **Tools**
+`Postman` • `Excel` • `VS Code` • `Figma`
+
+---
+
+## 💼 Work Experience
+
+### 🔹 **OyeLabs — Associate PHP Developer**  
+*Mar 2025 – Present | Remote*  
+- Worked on **10+ live projects**: Philregis, Oohmie, XOBlack, MoonBNB, MoonLancer, Trymii, etc.  
+- Added major features like **YouTube Live Streaming**, **Auto CV Matching**, **Custom Admin Features**.  
+- Built and optimized **REST APIs**, improved query performance (MySQL).  
+- Collaborated with frontend & QA for smooth deployments.  
+- **Tech:** PHP, Laravel, MySQL, REST APIs, jQuery.
+
+---
+
+### 🔹 **Infosys Springboard — Project Intern**  
+*Feb 2025 – Mar 2025 | Remote*  
+- Built an automation tool to **download NSE reports daily**.  
+- Added CSV validation, duplicate handling & error-resilient system.  
+- Improved reliability & data accuracy through strong validation rules.
+
+---
+
+### 🔹 **India Websoft — Jr. Software Engineer Intern**  
+*Sep 2024 – Feb 2025 | Indore*  
+- Built **TravelCRM** for Centurion Luxury Travels (booking, packages, quotations).  
+- Added **multi-currency (INR/AED/EUR)**, hotel PDF reports, supplier expense filters.  
+- Improved CRUD speed, UI responsiveness & cPanel deployment.
+
+---
+
+### 🔹 **WebStack Academy — MERN Intern**  
+*Feb 2024 – Apr 2024 | Remote*  
+- Built "HomelyHub" hotel booking platform using MERN Stack.
+
+---
+
+## 📌 Major Projects
+
+### ⭐ **Face Recognition Attendance System**
+- Automated attendance using **Python + OpenCV + MySQL**.  
+- Reduced manual work by **60%**.  
+- Includes Excel export, student logs, and live camera detection.
+
+### ⭐ **Tomato Leaf Disease Prediction**
+- CNN-based detection system with 93% accuracy.  
+- Built simple UI for leaf image upload.
+
+---
+
+## 🏆 Certifications
+- **LangChain for LLM Development — DeepLearning.AI**  
+- **Introduction to LLMs — Google Cloud**  
+- **AI/ML & Blockchain — BITS Pilani**  
+- **SQL (Basic) — HackerRank**  
+- **Node.js (Basic) — HackerRank**  
+- **OpenCV — IIT Bombay (Spoken Tutorial)**  
+- **Concepts of AI/ML — ISRO**  
+- **Python & Face Recognition — HCL GUVI**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavvishwakarma&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavvishwakarma&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
-<!-- About Me -->
-- 🔭 I’m currently working on **Full Stack Intern**
-- 🌱 I’m currently learning **React.js, Node.js**
-- 🤝 I’m looking for help with **Web, ML, Software Development**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://pranavvishwakarma.vercel.app/)
-- 💬 Ask me about **Python, C++, AI, Web , RESTful API's.**
-- 📫 How to reach me: **Pranav213234@gmail.com**
-- ⚡ Fun fact: **I think**
+---
 
-<!-- Connect with Me -->
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/pranav-vishwakarma-77b026211/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/pranavvishwakarma">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <!-- Add more social icons as needed -->
-  <!-- Example: GitHub, Twitter, Email, etc. --> 
+  <a href="mailto:pranav213234@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
+  </a>
+  <a href="https://github.com/pranavvishwakarma">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
+  </a>
 </p>
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Include your programming languages and tools icons here -->
-</p>
+---
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavvishwakarma&show_icons=true&locale=en&layout=compact" alt="pranavvishwakarma">
-</p>
+## ✨ Quote
+> "Code, create, and keep improving — the future belongs to builders."
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavvishwakarma&show_icons=true&locale=en" alt="pranavvishwakarma">
-</p>
-
-
-
-<!-- Additional Features with Symbols -->
-<h3 align="left">Additional Features:</h3>
-<p align="left">
-  🚀 **Open Source Contributor**: Proudly contributing to open-source projects.<br>
-  💡 **Tech Enthusiast**: Passionate about exploring the latest technologies.<br>
-  🌱 **Continuous Learner**: Embracing new skills and knowledge every day.<br>
-  🎓 **Student Developer**: Balancing academics and coding with flair.<br>
-</p>
