@@ -115,12 +115,19 @@ Confident builder crafting premium, production-grade systems with clean architec
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavvishwakarma&theme=tokyonight&no-bg=true&no-frame=true&column=-1" alt="trophies"/>
+</p>
+
 ## Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pranavvishwakarma&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak"/>
 </p>
 
 ## Activity Graph
+<p align="center">
+  <img src="https://metrics.lecoq.io/pranavvishwakarma?template=classic&isocalendar=1&isocalendar.duration=full-year&base=header&config.timezone=Asia/Kolkata" alt="isometric contribution calendar"/>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavvishwakarma&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
